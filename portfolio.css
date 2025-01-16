@@ -1,0 +1,46 @@
+body {
+    background-color:rgb(236, 241, 222);
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+img {
+    border-radius: 50%;
+    margin-top: 60px;
+    margin-left: 20px;
+}
+
+#section_left {
+    width: 28%;
+    height: 70px;
+    margin-left: 2%;
+}
+
+#section_left img {
+    margin-top: 23px;
+}
+
+
+.skills ul {
+    padding-left: 0;
+}
+
+.skills ul li {
+    list-style: none;
+    margin: 0;
+}
+
+#section_right {
+    margin-left: 35%;
+    width: 60%;
+    height: 70px;
+}
+
+#section_right h1 {
+    margin: 0;
+}
+
+.Projects li{
+    padding-bottom: 14px;
+}
